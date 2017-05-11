@@ -1,4 +1,4 @@
-#Webpage for events "Zabute kino"
+#Webpage for events Zabute kino
 
 Used technologies:
 
