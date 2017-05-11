@@ -1,0 +1,30 @@
+.footer {
+  margin: 25px 0 0 0;
+  background-color: red;
+  background: linear-gradient(to right, #006666, #004d99);
+  width: 100%;
+  min-height: 100px;
+}
+
+.social{
+  text-align: center;
+  font-size: 20px;
+  margin: 20px 0 0 0;
+}
+
+a{
+  text-decoration: none;
+  color: #0e8cc2;
+}
+
+a:hover{
+  text-decoration: none;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+}
+
+a:visited{
+  text-decoration: none;
+  color: #0e8cc2;
+}

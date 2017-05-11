@@ -1,0 +1,42 @@
+.list{
+  display: inline-block;
+  width: 100%;
+  font-size: 0;
+  line-height: 0;
+  padding: 0;
+  background-color: red;
+  background: linear-gradient(to right, #006666, #004d99);
+  color: #ffffff;
+}
+
+.list ul li {
+  display: inline;
+  float: left;
+}
+
+.list ul li a {
+  font-size: 16px;
+  line-height: normal;
+  text-align: center;
+  color: #ffffff;
+  padding: 15px 20px;
+  display: block;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.list ul li a:hover{
+  text-decoration: none;
+  background-color: #ffffff;
+  color: #000066;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+}
+
+.pos{
+  display: block;
+  max-width: 220px;
+  margin: 0 auto;
+  padding: 0;
+}
